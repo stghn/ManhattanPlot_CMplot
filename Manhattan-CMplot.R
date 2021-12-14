@@ -1,13 +1,12 @@
-###
-### Sajjad Toghiani
-### 13 Dec 2020
+### Script name: Manhattan-CMplot.R
+### Purpose: A high-quality visualization tool for genomic analysis using SNP panels
+### Author: Sajjad Toghiani
+### Released Date: 13 Dec 2020
 ### Last Modified: 13 Dec 2020
 
-### A high-quality visualization tool for genomic analysis using SNP panels
-### if you want to use the latest version on GitHub:
-### source("https://raw.githubusercontent.com/YinLiLin/CMplot/master/R/CMplot.r")
+### if you want to use the latest version of CMplot package on GitHub:
+source("https://raw.githubusercontent.com/YinLiLin/CMplot/master/R/CMplot.r")
  
-
 rm(list = ls())
 
 ## specify the package names and loading them using packman package 
